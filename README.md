@@ -22,7 +22,7 @@ n/a
 
 
 Assignment Example 1 Picture:    
-    ![TBD](public/assets/website1.jpg)
+    ![TBD](assets/images/gistpicexample1.jpg)
 
 
 Git Repository link where finalzed project can be pulled:
@@ -44,6 +44,3 @@ References:
         https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 
     4 - my previous code submitted module 5 which was refactored from a starter code but again refactored for this assignment.
-
-MIT License: 
-    ![MIT License](assets/mitlicense.jpg)
