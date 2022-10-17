@@ -7,11 +7,10 @@ body, .jumbotron {
 }
 
 .form-input{
-  white-space: pre-wrap;
   width: 85%;
   flex-wrap: wrap;
   text-align: center;
-  border-radius: 15px;
+  height: 20%;
 }
 
 .article1, .article2, .aritcle3 {
