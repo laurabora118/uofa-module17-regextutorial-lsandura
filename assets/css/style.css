@@ -1,0 +1,58 @@
+
+body, .jumbotron {
+  text-align: center;
+  color: darkblue;
+  border-bottom: 10px solid black;
+  font-size: 40px;
+}
+
+.form-input{
+  white-space: pre-wrap;
+  width: 85%;
+  flex-wrap: wrap;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.article1, .article2, .aritcle3 {
+  padding-bottom: 10%;
+}
+
+.tslot{
+  white-space: pre-wrap;
+  background-color: rgb(230, 165, 199);
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+  color: #000000;
+  font-size: 50px;
+}
+
+.sslot {
+  background-color: #06AED5;
+  color: #e37b7b;
+  font-size: 50px;
+}
+
+.links {
+  padding: 40px 40px 40px ;
+  position: center;
+  font-size: 20px
+  border: #110f3d;
+  font-size: 60px;
+}
+
+table{
+  height: 40%;
+  width: 80%;
+  margin: 20px 0;
+  border-collapse: collapse;
+  background-color: rgb(124, 231, 245);
+}
+table, th, td{
+  border: 4px solid #110f3d;
+}
+table th, table td{
+  padding: 20px;
+  text-align: center;
+}

@@ -24,20 +24,12 @@ n/a
 Assignment Example 1 Picture:    
     ![TBD](public/assets/website1.jpg)
 
-Assignment Example 2 Picture:
-    ![TBD](public/assets/website2.jpg)
-
-Assignment Example 3 Picture:
-    ![TBD](public/assets/website3.jpg)
-
-Assignment Example 4 Picture:
-    ![TBD](public/assets/website4.jpg)
 
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/ofa-module17-regextutorial-lsandura   
 
 
-Git Page that shows finalized project results:
+Git Page that shows finalized project results: (if applicable)
     https://laurabora118.github.io/ofa-module17-regextutorial-lsandura  
 
 
@@ -50,11 +42,16 @@ Video link of working app deployed: (if applicable)
 
 
 References:
-    1 - Assignment criteria received in UofA assignments
+    1 - Assignment criteria received in UofA assignments, starter code provided
 
-    2 -
+    2 - Video lessons in assignment:
+        Video: 2.1: Introduction to Regular Expressions - Programming with Text from The Coding Train
+        Link: https://www.youtube.com/watch?v=7DG3kCDx53c
 
-    3 -
+    3 - Tutorial from assigment:
+        https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
+
+    4 - my previous code submitted module 5 but refactored for this assignment.
 
 MIT License: 
     ![MIT License](assets/mitlicense.jpg)

@@ -1,0 +1,5 @@
+# starter code provided for assignment
+node_modules
+package-lock.json
+.vscode
+.DS_Store
