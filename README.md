@@ -43,4 +43,4 @@ References:
     3 - Tutorial from assigment:
         https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 
-    4 - my previous code submitted module 5 which was refactored from a starter code but again refactored for this assignment.
+    4 - my own previous code submitted module 5 which was refactored twice from a starter code.
