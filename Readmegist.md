@@ -13,12 +13,15 @@ Navigate to More information about REGEX
 ## Table of Contents
 - [Character Classes](#character-classes)
 
-## Regex Components
+## Character classes
 
-With the character classes it makes it easy. If you are looking for a rhythm you can use the letter /d to match up with any numberical digit.
+## Example1
+
+With the #character classes it makes it easy. If you are looking for a rhythm you can use the letter /d to match up with any numberical digit.
 
 you could use this to search a number pattern. 123 would be /d/d/d.
 
+## Example2
 
 There are other ways options to match with also, for instance /s can match one single space.
 
@@ -29,4 +32,5 @@ This is just two examples of character class.
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Laura Sandura [Github](https://github.com/laurabora118)
+

@@ -26,19 +26,11 @@ Assignment Example 1 Picture:
 
 
 Git Repository link where finalzed project can be pulled:
-    https://github.com/laurabora118/ofa-module17-regextutorial-lsandura   
+    https://github.com/laurabora118/uofa-module17-regextutorial-lsandura  
 
 
-Git Page that shows finalized project results: (if applicable)
-    https://laurabora118.github.io/ofa-module17-regextutorial-lsandura  
-
-
-How to use, run or deploy a clone:
-
-
-
-Video link of working app deployed: (if applicable)
-
+Git Gist: 
+    https://github.com/laurabora118/uofa-module17-regextutorial-lsandura/blob/main/Readmegist.md  
 
 
 References:
@@ -51,7 +43,7 @@ References:
     3 - Tutorial from assigment:
         https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 
-    4 - my previous code submitted module 5 but refactored for this assignment.
+    4 - my previous code submitted module 5 which was refactored from a starter code but again refactored for this assignment.
 
 MIT License: 
     ![MIT License](assets/mitlicense.jpg)
